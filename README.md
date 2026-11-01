@@ -53,6 +53,16 @@ I learned how to read a CSV file, calculate a simple summary, create figures, or
 ## Notebook
 [Open the Jupyter notebook](notebook/animal_lifespan_project.ipynb)
 
+
+## My Colab Notebook
+
+The submitted notebook is available here:
+
+[Open My Jupyter Notebook](https://drive.google.com/file/d/1VOxt15QOg2-UCkL-bt2u8nG-z-0tpAGs/view?usp=sharing)
+
+> Make sure the Google Drive sharing setting is **Anyone with the link → Viewer** so the notebook can be opened by your instructor.
+
+
 ## Project Demonstration Video
 The submitted student repository should also contain an MP4 laptop screen recording demonstrating the project. In the video, briefly show the GitHub README, open/run the notebook, explain the two figures, and explain at least one code block.
 
